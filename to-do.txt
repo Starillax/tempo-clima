@@ -1,0 +1,14 @@
+Criar uma tela em REACT com CSS adequado com os seguintes dados:
+
+O usuário selecionará uma cidade para ver as informações sobre previsão do tempo.
+
+* Temperatura atual;
+* Sensação térmica;
+* Temperatura mínima;
+* Temperatura máxima;
+* Umidade;
+* Se está limpo, chuvoso, etc.
+
+Para 3 dias.
+
+Utilizar também imagens pesquisadas no Google sobre as condições do tempo.
